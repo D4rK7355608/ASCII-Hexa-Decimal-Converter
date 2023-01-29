@@ -1,5 +1,6 @@
 # ASCII Converter and Hexadecimal Converter
-A C++ program with functions for converting strings, numbers to formats like ASCII, hexadecimal, upper case, decimal, and file.
+
+A program that converts characters and strings to ASCII, hexadecimal, uppercase and decimal.
 
 ## Features
 
